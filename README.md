@@ -1,5 +1,3 @@
-# udv
-Repository for UDV (Urban Data Visualization) Cards
 # Urban Data Visualization (UDV) Card Deck
 
 Welcome to the official repository for the Urban Data Visualization (UDV) Card Deck. This repository hosts the UDV Card Deck and associated materials, designed to facilitate and enhance the process of urban data visualization.
@@ -41,15 +39,12 @@ We welcome contributions and feedback from the community. If you have suggestion
 - Use the template in `/feedback` to provide structured feedback.
 - Share your experiences, suggestions, and use cases.
 
-## License
-
-[Specify the License - e.g., MIT, GPL-3.0, etc.]
 
 ## Acknowledgments
 
-- Participants and facilitators of the workshops who contributed immensely to the development of the UDV Card Deck.
-- [Any other acknowledgments]
+- UDV Cards is based on Goodwin et al.'s work. We are thankful to the authors: Goodwin, S., Meier, S., Bartram, L., Godwin, A., Nagel, T., & Dörk, M. (2021, April). Unravelling the human perspective and considerations for urban data visualization. In 2021 IEEE 14th Pacific Visualization Symposium (PacificVis) (pp. 126-130). IEEE.
+- Participants and facilitators of the workshops who contributed immensely to the development of the UDV Card Deck
 
 ---
 
-For more information or inquiries, please [contact us](mailto:contact@email.com) or open an issue in this repository.
+For more information or inquiries, please [contact us](mailto:damlacay@gmail.com) or open an issue in this repository.
