@@ -28,7 +28,7 @@ See https://cards.cityvis.io for more information.
 
 To get started with the UDV Card Deck:
 
-1. **Understand:** Check out the website for an overview of the cards, and read about selected use cases.
+1. **Understand:** Check out the [website](https://cards.cityvis.io ) for an overview of the cards, and read about selected use cases.
 2. **Materials:** Download the necessary files from the download folder (soon we will provide a digital version of the cards to use online).
 3. **Instructions:** Go through the [instructions](https://cards.cityvis.io/#instructions) to get guides for different activities.
 4. **Experiment:** Use the UDV cards in your urban data visualization projects or workshops.
@@ -45,7 +45,7 @@ We welcome contributions and feedback from the community. If you have suggestion
 
 ## Credits & Acknowledgments
 
-- UDV Card Deck by Damla Çay (MOME Innovation Center), Till Nagel (Hochschule Mannheim), and Sebastian Meier (Potsdam University of Applied Sciences).
+- UDV Card Deck by [Damla Çay](https://mome.hu/en/people/damla-cay) (MOME Innovation Center), [Till Nagel](https://services.informatik.hs-mannheim.de/~nagel/) (Hochschule Mannheim), and [Sebastian Meier](https://idl.fh-potsdam.de/en/people/sebastian-meier/) (Potsdam University of Applied Sciences).
 - The card deck is based on Goodwin et al.'s work. We are thankful to the authors: Goodwin, S., Meier, S., Bartram, L., Godwin, A., Nagel, T., & Dörk, M. (2021, April). Unravelling the human perspective and considerations for urban data visualization. In 2021 IEEE 14th Pacific Visualization Symposium (PacificVis) (pp. 126-130). IEEE.
 - We thank the participants and facilitators of the workshops who contributed immensely to the development of the UDV Card Deck.
 
