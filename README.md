@@ -2,7 +2,7 @@
 
 Welcome to the official repository for the Urban Data Visualization (UDV) Card Deck. This repository hosts the UDV Card Deck and associated materials, designed to facilitate and enhance the process of urban data visualization.
 
-![UDV Card Deck used in a collaborative workshop.](https://github.com/damlacay/udv/blob/main/udvcards-in-workshop.jpg?raw=true)
+![UDV Card Deck used in a collaborative workshop.](https://github.com/damlacay/udv/blob/main/images/udvcards-in-workshop.jpg?raw=true)
 
 ## About the UDV Card Deck
 
