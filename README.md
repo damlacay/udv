@@ -29,7 +29,7 @@ See https://cards.cityvis.io for more information.
 To get started with the UDV Card Deck:
 
 1. **Understand:** Check out the [website](https://cards.cityvis.io ) for an overview of the cards, and read about selected use cases.
-2. **Materials:** Download the cards and instructions from the [download](/downloads] folder, or use the [online whiteboard](https://miro.com/app/board/uXjVLKU8Fw0=/).
+2. **Materials:** Download the cards and instructions from the [download](/downloads) folder, or use the [online whiteboard](https://miro.com/app/board/uXjVLKU8Fw0=/).
 3. **Instructions:** Go through the [instructions](https://cards.cityvis.io/#instructions) to get guides for different activities.
 4. **Experiment:** Use the UDV cards in your urban data visualization projects or workshops.
 
