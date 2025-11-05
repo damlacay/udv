@@ -47,6 +47,7 @@ We welcome contributions and feedback from the community. If you have suggestion
 
 - UDV Card Deck by [Damla Çay](https://mome.hu/en/people/damla-cay) (MOME Innovation Center), [Till Nagel](https://services.informatik.hs-mannheim.de/~nagel/) (Technische Hochschule Mannheim), and [Sebastian Meier](https://idl.fh-potsdam.de/en/people/sebastian-meier/) (Potsdam University of Applied Sciences).
 - Çay, D., Nagel, T. & Meier, S. (2025) [The UDV Card Deck: A Collaborative Design Framework to Facilitate Urban Visualization Conversations](https://ieeexplore.ieee.org/abstract/document/10946102). IEEE Computer Graphics and Applications, doi: 10.1109/MCG.2025.3556573
+- Çay, D., Nagel, T. & Meier, S. (2025) [Cities, Cards, and Conversations: The UDV Card Deck in Action](https://raw.githubusercontent.com/damlacay/udv/main/downloads/UDV-Poster-IEEE-VIS-2025-s.pdf). IEEE VIS Poster 2025
 - The card deck is based on Goodwin et al.'s work. We are thankful to the authors: Goodwin, S., Meier, S., Bartram, L., Godwin, A., Nagel, T., & Dörk, M. (2021). Unravelling the human perspective and considerations for urban data visualization. IEEE Pacific Visualization Symposium (PacificVis) (pp. 126-130).
 - We thank the participants and facilitators of the workshops who contributed immensely to the development of the UDV Card Deck.
 
